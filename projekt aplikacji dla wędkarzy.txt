@@ -1,0 +1,27 @@
+Planujê stworzyæ aplikacjê dla wêdkarzy, która bêdzie mia³a nastêpuj¹ce funkcjonalnoœci:
+u¿ytkownik po w³¹czeniu aplikacji bêdzie móg³ wybraæ jak¹ metod¹ ³owi danego dnia oraz 
+czy ryby wykazywa³y jak¹œ aktywnoœæ(iloœæ brañ, agresja drapie¿ników), a tak¿e godziny w jakich wêdkowa³.
+ Po z³apaniu ryby bêdzie móg³ j¹ sfotografowaæ oraz z bazy przynêt wybraæ tê, na któr¹ uda³o mu siê z³apaæ rybê.
+ Przy dodawaniu z³owionej ryby do bazy dodatkowo bêdzie do³¹czana lokalizacja wêdkarza.
+ Na podstawie lokalizacji aplikacja rozpozna na jakim zbiorniku/rzece ryba zosta³a z³owiona???
+ Planujê dodaæ pozycjê "Najlepsze ³owiska", która bêdzie przedstawia³a miejsca, gdzie z³owiono najwiêcej ryb.
+
+Strona startowa - metoda po³owu, data i godzina rozpoczêcia ³owienia
+Menu:
+Z³apa³em rybê!
+Historia
+Rekordowe okazy
+Najlepsze ³owiska
+Najlepsze przynêty
+WyjdŸ z aplikacji
+
+Po z³apaniu ryby:
+zdjêcie ryby,
+wybór przynêty, 
+branie (z opadu, w toni),
+rozmiar,
+waga,
+lokalizacja (co z nazw¹ ³owiska?).
+
+
+
